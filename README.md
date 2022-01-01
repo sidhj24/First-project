@@ -24,3 +24,6 @@ This repository has following files -
 
 **Acknowledgements**
 This code is insipired from some of the codes & concepts built as part of Udacity Data Science Nanodegree program 
+
+**Medium Post**
+https://medium.com/@sidh.j24/data-science-trends-and-whats-new-with-coding-51c5f28ee19c
