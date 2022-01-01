@@ -19,7 +19,8 @@ This repository has following files -
 3. survey_results_schema.csv - The Data dictionary for the data used for this assessment
 
 **Quick summary** 
-
+1. People prefer to learn coding from online resources like blogs and videos
+2. C, Java, HTML and Python have been the go-to languages to use and learn
 
 **Acknowledgements**
 This code is insipired from some of the codes & concepts built as part of Udacity Data Science Nanodegree program 
